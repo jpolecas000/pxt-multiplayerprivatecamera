@@ -1,0 +1,15 @@
+{
+  "name": "privatecamera",
+  "description": "Advanced per-player camera system for MakeCode Arcade multiplayer",
+  "dependencies": {
+    "device": "*",
+    "multiplayer": "*"
+  },
+  "files": [
+    "privatecamera.ts",
+    "camera.ts",
+    "player.ts",
+    "enums.d.ts"
+  ],
+  "public": true
+}
